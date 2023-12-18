@@ -1,0 +1,198 @@
+.header {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    height: 862px;
+    background-color: rgba(12, 76, 123, 1);
+    position: relative;
+}
+.headerContent {
+    grid: 10px;
+    width: 580px;
+    height: 523px;
+    position: absolute;
+    left: 15%;
+    top: 18%;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerimg {
+    position: relative;
+    left: 25%;
+}
+
+.time {
+    line-height: 38px;
+    color: rgba(251, 183, 49, 1);
+    align-items: top;
+    font-family:Nunito sans, Bold;
+    font-size: 30px;
+}
+
+.bestburger{
+
+    color: rgba(250, 249, 249, 1);
+    font-family: Nunito sans, ExtraBold;
+    font-size: 100px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+
+.description {
+    color: rgba(222, 222, 222, 1);
+    font-family: Lato, Regular;
+    font-size: 19px;
+
+}
+
+.but {
+    background-color: rgba(251, 183, 49, 1);
+    width: 170px;
+    height: 58px;
+    border-radius: 10px;
+    font-family: Nunito Sans, Bold;
+    font-size: 14px;
+    text-transform:uppercase;
+    margin-top: 10px;
+}
+
+.allburger {
+    width: 100%;
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: space-around;
+    
+}
+
+.burger1 {
+
+    width: 580px;
+    height: 395px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    
+}
+
+ .burger2 {
+    margin-left: 50px;
+    width: 580px;
+    height: 395px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+} 
+
+.burger1Content {
+    width: 378px;
+    height: 163px;
+    position: absolute;
+}
+
+.skidka {
+    width: 101px;
+    height: 28px;
+    background-color: rgba(243, 115, 53, 1);
+    color: rgba(255, 255, 255, 1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Nunito Sans, Black;
+    font-size: 14px;
+    line-height: 18px;
+    text-transform: uppercase;
+    border-radius: 10px;
+
+}
+
+.dva {
+    color: rgba(255, 255, 255, 1);
+    font-family: Nunito Sans, Black;
+    font-size: 60px;
+}
+
+.skidkaText{
+
+    font-family: Lato, Regular;
+    font-size: 15px;
+    color:rgba(250, 249, 249, 0.75);
+}
+
+.burger2Content {
+    width: 378px;
+    height: 163px;
+    position: absolute;
+}
+
+.free {
+    color: rgba(255, 255, 255, 1);
+    font-family: Nunito Sans, Bold;
+    font-size: 44px;
+    line-height: 56px;
+}
+
+.free2 {
+    font-family: Lato, Regular;
+    font-size: 15px;
+    color:rgba(250, 249, 249, 0.75);
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 170px;
+    width: 100%;
+    height: 403px;
+    background-color: rgba(30, 47, 64, 1);
+}
+
+.logo {
+    margin-right: 30px;
+    background-color: rgba(251, 183, 49, 1);
+    width: 42px;
+    height: 56px;
+}
+
+.svg {
+    margin-left: 20px;
+    margin-top: 6px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.limain {
+    color: rgba(255, 255, 255, 1);
+    font-family: Nunito Sans, ExtraBold;
+    font-size: 20px;
+
+}
+
+.menu {
+    
+    margin-top: 10px;
+    font-family: Lato, Regular;
+    font-size: 15px;
+    color:rgba(250, 249, 249, 0.75);
+}
+
+.data {
+    color: rgba(250, 249, 249, 1);
+    font-family: Lato, bold;
+    font-size: 15px;
+    margin-top: 2px;
+}
+
+.number {
+    color:rgba(251, 183, 49, 1);
+    font-family: Nunito Sans, ExtraBold;
+    font-size: 20px;
+
+}
